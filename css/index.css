@@ -1,0 +1,15 @@
+@font-face{
+	font-family: "SSS";
+	src: url('../fonts/sss.ttf');
+}
+
+#logo{
+	font-family: "SSS";
+	font-size: 450%;
+	color: white;
+	text-align: center;
+}
+
+#error{
+	
+}

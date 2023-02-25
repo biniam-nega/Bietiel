@@ -1,0 +1,12 @@
+1. Install XAMPP
+2. Copy Bietiel to xampp/htdocs/
+3. Open XAMPP and start Apache server and MySQL
+4. Click MySQL admin 
+5. Create a new database and name it bietiel then click create
+6. Import Bietiel's database
+7. go to Apache config -> php.ini
+8. click edit-> find and then Search for upload_max_filesize and change its value to 2G
+9. click edit-> find and then Search for post_max_size and change its value to 2G
+10. click file->Save
+11. Restart Apache and MySQL
+12. Open a browser and go to localhost/bietiel/
